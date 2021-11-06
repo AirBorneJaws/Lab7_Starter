@@ -180,7 +180,7 @@ function bindEscKey() {
     {
       router.navigate('home',false);
     }
-  }
+  })
 }
 
 /**
